@@ -44,7 +44,7 @@
 ###
 
 <div align="left">
-  <a href="<https://discord.com/users/872282182826201170>" target="_blank">
+  <a href="https://discord.com/users/872282182826201170" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://signal.me/#eu/flmsTCUn4hqNvx_3XH2pmIq4WIFPPnpBoE4ACfNVZ7Uj3d_11NpMr7EUhr36_80q" target="_blank">
