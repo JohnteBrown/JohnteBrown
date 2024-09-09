@@ -58,12 +58,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/JohnteBrown/count.svg?"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/JohnteBrown/JohnteBrown/output/snake.svg" alt="Snake animation" />
